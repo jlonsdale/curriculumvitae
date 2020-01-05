@@ -3,6 +3,7 @@
 * Full Name : Jessie Lonsdale
 * Address   : 11 Birchside Apartments, 1 Albert Road, NW6 5FS, London, England.
 * Mobile    : +44 07545552724
+* Github    : https://github.com/jlonsdale
 * E-mail    : lonsdale.jess@gmail.com
 
 ## Education
@@ -15,7 +16,7 @@
 
 ## Skills
 
-* High mathematical fluency.
+* High mathematical fluency and strong problem solving skills.
 * Experience with Javascript, Python, Ruby & Java.
 * TDD using Rspec, Capybara, Jasmine & Jest.
 * Object-orientated programming.
@@ -35,10 +36,14 @@
 
 ### My Portfolio
 
-I have a passion for modelling physical systems using code, expanding on these personal projects to build small games and applications.
+* I have a passion for modelling physical systems using code, expanding on these personal projects to build small games and applications. 
+ * built with Javascript & jQuery.
+ * https://jlonsdale.github.io/physics_engine.io/
+ * https://jlonsdale.github.io/pool_table.io/
+
 
 | Project Description | Tech Stack |
 | --------------------|:-------------:|
 | WordBall - A 2D physics based spelling game with a random letter generating system and physics engine built from scratch. <ul><li>Deployed here: https://wordballxtreme.herokuapp.com/ </li><li>Github repo: https://github.com/jlonsdale/wordball </li></ul>|Javascript ES6, jQuery, React, Express.js, TDD and Agile|
-| LizardBook - a social networking platform for reptiles.  <ul><li>Deployed here: https://lizardbook.herokuapp.com/ </li><li>Github repo: https://github.com/jlonsdale/LizardBook </li></ul>|Ruby, Rails, Bcrypt, RSpec, Capybara, JQuery PostgreSQL |
+| LizardBook - a social networking platform for reptiles.  <ul><li>Deployed here: https://lizardbook.herokuapp.com/ </li><li>Github repo: https://github.com/jlonsdale/LizardBook </li></ul>|Ruby, Rails, Bcrypt, RSpec, Capybara, JQuery, PostgreSQL, TDD and Agile |
 
