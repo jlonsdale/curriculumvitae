@@ -37,8 +37,8 @@
 
 | Project Description | Tech Stack |
 | --------------------|:-------------:|
-|Group Projects|
-| col 3 is      | right-aligned |
+| WordBall - A 2D physics based spelling game with a random letter generating system and physics engine built from scratch. * Deployed here: * Repo: dasdsadsa| 
+Javascript ES6, jQuery, React, Express.js, TDD and Agile|
 | col 2 is      | centered      |
 | zebra stripes | are neat      |
 
