@@ -36,9 +36,9 @@
 * Working in groups utilising Agile software development.
 * Experience teaching and tutoring mathematics & physics to A-level students.
 * I have a passion for modelling physical systems using code, expanding on these personal projects to build small games and applications. 
- * built with Javascript & jQuery.
- * https://jlonsdale.github.io/physics_engine.io/
- * https://jlonsdale.github.io/pool_table.io/
+  * built with Javascript & jQuery.
+  * https://jlonsdale.github.io/physics_engine.io/
+  * https://jlonsdale.github.io/pool_table.io/
 
 | Project Description | Tech Stack |
 | --------------------|:-------------:|
