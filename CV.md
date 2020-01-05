@@ -1,6 +1,6 @@
 ## Jessie Lonsdale, Full-Stack Developer and Physics Graduate.
 
-## Contact Information
+### Contact Information
 
 * Full Name : Jessie Lonsdale
 * Address   : 11 Birchside Apartments, 1 Albert Road, NW6 5FS, London, England.
