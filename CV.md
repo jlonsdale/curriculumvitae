@@ -37,9 +37,9 @@ Searching for a backend or fullstack development role where I can thrive, grow a
 * Working in small and large groups for highly specialized projects throughout my degree and during Makers.
 * Working in groups utilising Agile software development.
 * Experience teaching and tutoring mathematics & physics to A-level students.
-* I have a passion for modelling physical systems using code, and creating my own physics engines. I also enjoy expanding on these personal projects by dabbling in game desgin to create small interactive apps and games. For Example:
-  * https://jlonsdale.github.io/physics_engine.io/
-  * https://jlonsdale.github.io/pool_table.io/
+* I have a passion for modelling physical systems using code, and creating my own physics engines. I also enjoy expanding on these personal projects by dabbling in game desgin to create small interactive apps and games. Some examples: 
+  * https://github.com/jlonsdale/physics_engine.io, deployed here: https://jlonsdale.github.io/physics_engine.io/
+  * https://github.com/jlonsdale/pool_table.io, deployed here: https://jlonsdale.github.io/pool_table.io/
   
 ### Projects
 
