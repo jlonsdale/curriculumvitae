@@ -35,7 +35,6 @@
 * Working in small and large groups for highly specialized projects throughout my degree and during Makers.
 * Working in groups utilising Agile software development.
 * Experience teaching and tutoring mathematics & physics to A-level students.
-
 * I have a passion for modelling physical systems using code, expanding on these personal projects to build small games and applications. 
  * built with Javascript & jQuery.
  * https://jlonsdale.github.io/physics_engine.io/
