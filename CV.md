@@ -1,4 +1,4 @@
-# Jessie Lonsdale, Full-Stack Developer and Physics Graduate.
+## Jessie Lonsdale, Full-Stack Developer and Physics Graduate.
 
 ## Contact Information
 
@@ -42,7 +42,6 @@
  * built with Javascript & jQuery.
  * https://jlonsdale.github.io/physics_engine.io/
  * https://jlonsdale.github.io/pool_table.io/
-
 
 | Project Description | Tech Stack |
 | --------------------|:-------------:|
