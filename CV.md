@@ -8,7 +8,7 @@
 * Github    : https://github.com/jlonsdale
 * E-mail    : lonsdale.jess@gmail.com
 
-## Education
+### Education
 
 * University College London, Bachelors of Physics.
   * Second-Class Honours (67%) (2015-2019)
@@ -16,7 +16,7 @@
   * Final Year Project - 80% (Building and testing a phased array antenna)
 * Makers Academy (Sept 2019 to Dec 2019)
 
-## Skills
+### Skills
 
 * High mathematical fluency and strong problem solving skills.
 * Experience with Javascript, Python, Ruby & Java.
@@ -30,13 +30,11 @@
 * Data analytics using numPy and matplotLib.
 * Communication and Teamwork Skills
 
-## Relevant Work and Experience 
+### Relevant Work and Experience 
 
 * Working in small and large groups for highly specialized projects throughout my degree and during Makers.
 * Working in groups utilising Agile software development.
 * Experience teaching and tutoring mathematics & physics to A-level students.
-
-### My Portfolio
 
 * I have a passion for modelling physical systems using code, expanding on these personal projects to build small games and applications. 
  * built with Javascript & jQuery.
