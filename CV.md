@@ -1,5 +1,7 @@
 ## Jessie Lonsdale, Full-Stack Developer and Physics Graduate.
 
+Searching for a backend or fullstack development role where I can thrive, grow and most importantly write exceptional code.
+
 ### Contact Information
 
 * Full Name : Jessie Lonsdale
@@ -35,8 +37,7 @@
 * Working in small and large groups for highly specialized projects throughout my degree and during Makers.
 * Working in groups utilising Agile software development.
 * Experience teaching and tutoring mathematics & physics to A-level students.
-* I have a passion for modelling physical systems using code, expanding on these personal projects to build small games and applications. 
-  * built with Javascript & jQuery.
+* I have a passion for modelling physical systems using code, expanding on these personal projects to build small games and applications, for example:
   * https://jlonsdale.github.io/physics_engine.io/
   * https://jlonsdale.github.io/pool_table.io/
 
