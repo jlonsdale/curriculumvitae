@@ -1,6 +1,6 @@
 ## Jessie Lonsdale, Full-Stack Developer and Physics Graduate.
 
-Searching for a backend or fullstack development role where I can thrive, grow and most importantly write exceptional code.
+Searching for a back-end or full-stack development role where I can thrive, grow and most importantly write exceptional code.
 
 ### Contact Information
 
@@ -21,10 +21,10 @@ Searching for a backend or fullstack development role where I can thrive, grow a
 ### Skills
 
 * High mathematical fluency and strong problem solving skills.
-* Experience with Javascript, Python, Ruby & Java.
+* Experience with JavaScript, Python, Ruby & Java.
 * TDD using Rspec, Capybara, Jasmine & Jest.
-* Object-orientated programming.
-* Rails, Express.j & Node.js.
+* Object-oriented programming.
+* Rails, Express.js & Node.js.
 * RESTful API design.
 * Model-View-Controller design.
 * HTML, CSS, JQuery & React.
@@ -45,6 +45,6 @@ Searching for a backend or fullstack development role where I can thrive, grow a
 
 | Project Description | Tech Stack |
 | --------------------|:-------------:|
-| WordBall - A 2D physics based spelling game with a random letter generating system and physics engine built from scratch. <ul><li>Deployed here: https://wordballxtreme.herokuapp.com/ </li><li>Github repo: https://github.com/jlonsdale/wordball </li></ul>|Javascript ES6, jQuery, React, Express.js, TDD and Agile|
+| WordBall - A 2D physics-based spelling game with a random letter generating system and physics engine built from scratch. <ul><li>Deployed here: https://wordballxtreme.herokuapp.com/ </li><li>Github repo: https://github.com/jlonsdale/wordball </li></ul>|Javascript ES6, jQuery, React, Express.js, TDD and Agile|
 | LizardBook - a social networking platform for reptiles.  <ul><li>Deployed here: https://lizardbook.herokuapp.com/ </li><li>Github repo: https://github.com/jlonsdale/LizardBook </li></ul>|Ruby, Rails, Bcrypt, RSpec, Capybara, JQuery, PostgreSQL, TDD and Agile |
 
