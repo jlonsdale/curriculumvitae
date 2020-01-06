@@ -4,11 +4,11 @@ Searching for a backend or fullstack development role where I can thrive, grow a
 
 ### Contact Information
 
-* Full Name : Jessie Lonsdale
-* Address   : 11 Birchside Apartments, 1 Albert Road, NW6 5FS, London, England.
-* Mobile    : +44 07545552724
-* Github    : https://github.com/jlonsdale
-* E-mail    : lonsdale.jess@gmail.com
+Full Name : Jessie Lonsdale
+Address   : 11 Birchside Apartments, 1 Albert Road, NW6 5FS, London, England.
+Mobile    : +44 07545552724
+Github    : https://github.com/jlonsdale
+E-mail    : lonsdale.jess@gmail.com
 
 ### Education
 
