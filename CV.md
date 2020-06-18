@@ -1,47 +1,46 @@
-## Jessie Lonsdale, Full-Stack Developer and Physics Graduate.
+## Jess Lonsdale, Software Engineer and Physics Graduate.
 
-Searching for a back-end or full-stack development role where I can thrive, grow and most importantly write exceptional code.
+**Github** : https://github.com/jlonsdale
+**Mobile** : +44 7545552724
+**E-mail** : lonsdale.jess@gmail.com
 
-### Contact Information
+I was introduced to programming stemming from a desire to create. I fell in love with programming when I realized the uninhibited creative freedom I had to create anything I wanted with just my computer & my mind. This love for my craft drives me to always keep learning, adapting and perfecting my skills. I want to use my skills to contribute elegant and beautiful code to meaningful projects and build amazing things.
 
-- Full Name : Jessie Lonsdale
-- Address   : 11 Birchside Apartments, 1 Albert Road, NW6 5FS, London, England.
-- Mobile    : +44 07545552724
-- Github    : https://github.com/jlonsdale
-- E-mail    : lonsdale.jess@gmail.com
+# Education
 
-### Education
+- BSc in Physics .
+- University College London (2015-2019).
+- Second-Class Honours (67%)
+- Scientific Programming Using Object-Oriented Languages (76%).- Final Year Laboratory Project - Scanning Tunneling Microscopy on Semi-Conductors (73%).
+- Final Year Project - Building and testing a phased array antenna using arduino (80%).
 
-* University College London, Bachelors of Physics.
-  * Second-Class Honours (67%) (2015-2019)
-  * Scientific Programming Using Object-Oriented Languages - 76%
-  * Final Year Project - 80% (Building and testing a phased array antenna)
-* Makers Academy (Sept 2019 to Dec 2019)
+# Skills
 
-### Skills
+- JavaScript, Ruby, Python & Java.
+- Competent with both Functional & Object-oriented programming styles.
+- High mathematical fluency.
+- Node.js, Express.js, Ruby on Rails & Rack.
+- React, Redux, redux-thunk & redux-sagas.
+- PostgreSQL, mySQL & mongoDB.
+- Data analytics with Python frameworks.
+- TDD with Jest, Enzyme, Rspec & Capybara.
+- AWS Lambda, S3, Cognito & codepipeline.
 
-* High mathematical fluency and strong problem solving skills.
-* Experience with JavaScript, Python, Ruby & Java.
-* TDD using Rspec, Capybara, Jasmine & Jest.
-* Object-oriented programming.
-* Rails, Express.js & Node.js.
-* RESTful API design.
-* Model-View-Controller design.
-* HTML, CSS, JQuery & React.
-* MongoDB & PostgreSQL.
-* Data analytics using numPy and matplotLib.
-* Communication and Teamwork Skills
+# Employment
 
-### Relevant Experience 
+**Greensill** - Software Engineer (Feb 2020 to Present)
 
-* Working in small and large groups for highly specialized projects throughout my degree and during Makers.
-* Working in groups utilising Agile software development.
-* Experience teaching and tutoring mathematics & physics to A-level students.
-* I have a passion for modelling physical systems using code, and creating my own physics engines. I also enjoy expanding on these personal projects by dabbling in game desgin to create small interactive apps and games. Some examples: 
-  * https://github.com/jlonsdale/physics_engine.io, deployed here: https://jlonsdale.github.io/physics_engine.io/
-  * https://github.com/jlonsdale/pool_table.io, deployed here: https://jlonsdale.github.io/pool_table.io/
+- JavaScript Full-Stack.
+- Worked in the financial operations team.
+- Responsible for building in-house reconciliation software.
+- Maintaining & upgrading a calculation engine to handle payments.
+- Built in security measures into our system to prevent fraud.
+- Responsible for merging our system into a new the global stack.
+
+_References available upon request_
+
   
-### Projects
+# Projects
 
 | Project Description | Tech Stack |
 | --------------------|:-------------:|
