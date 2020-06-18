@@ -4,12 +4,11 @@
 **Mobile** : +44 7545552724
 **E-mail** : lonsdale.jess@gmail.com
 
-I was introduced to programming stemming from a desire to create. I fell in love with programming when I realized the uninhibited creative freedom I had to create anything I wanted with just my computer & my mind. This love for my craft drives me to always keep learning, adapting and perfecting my skills. I want to use my skills to contribute elegant and beautiful code to meaningful projects and build amazing things.
+Initially I was drawn to programming as a powerful tool for mathematics and data analytics. Later I fell in love with programming when I realized the uninhibited creative freedom I had to create anything I wanted with just my computer & my mind. This love for my craft drives me to always keep learning, adapting and perfecting my skills. I want to use my skills to write elegant and beautiful code that will contribute to meaningful projects and help build amazing things. 
 
 # Education
 
-- BSc in Physics .
-- University College London (2015-2019).
+- BSc in Physics. University College London (2015-2019).
 - Second-Class Honours (67%)
 - Scientific Programming Using Object-Oriented Languages (76%).- Final Year Laboratory Project - Scanning Tunneling Microscopy on Semi-Conductors (73%).
 - Final Year Project - Building and testing a phased array antenna using arduino (80%).
