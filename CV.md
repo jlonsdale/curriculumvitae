@@ -25,7 +25,7 @@ Initially I was drawn to programming as a powerful tool for mathematics and data
 - TDD with Jest, Enzyme, Rspec & Capybara.
 - AWS Lambda, S3, Cognito & codepipeline.
 
-# Employment
+## Employment
 
 **Greensill** - Software Engineer (Feb 2020 to Present)
 
