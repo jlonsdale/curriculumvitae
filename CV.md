@@ -43,6 +43,6 @@ _References available upon request_
 
 | Project Description | Tech Stack |
 | --------------------|:-------------:|
-| WordBall - A 2D physics-based spelling game with a random letter generating system and physics engine built from scratch. <ul><li>Deployed here: https://wordballxtreme.herokuapp.com/ </li><li>Github repo: https://github.com/jlonsdale/wordball </li></ul>|Javascript ES6, jQuery, React, Express.js, TDD and Agile|
+| WordBall - A 2D physics-based spelling game with a random letter generating system and physics engine built from scratch. <ul><li>Deployed here: https://wordballxtreme.herokuapp.com/ </li><li>Github repo: https://github.com/jlonsdale/wordball </li></ul>|Javascript ES6, jQuery, React, mongoDB, Express.js, TDD and Agile|
 | LizardBook - a social networking platform for reptiles.  <ul><li>Deployed here: https://lizardbook.herokuapp.com/ </li><li>Github repo: https://github.com/jlonsdale/LizardBook </li></ul>|Ruby, Rails, Bcrypt, RSpec, Capybara, JQuery, PostgreSQL, TDD and Agile |
 
