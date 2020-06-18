@@ -40,9 +40,10 @@ _References available upon request_
 
   
 ## Projects
-
 | Project Description | Tech Stack |
 | --------------------|:-------------:|
-| WordBall - A 2D physics-based spelling game with a random letter generating system and physics engine built from scratch. <ul><li>Deployed here: https://wordballxtreme.herokuapp.com/ </li><li>Github repo: https://github.com/jlonsdale/wordball </li></ul>|Javascript ES6, jQuery, React, mongoDB, Express.js, TDD and Agile|
-| LizardBook - a social networking platform for reptiles.  <ul><li>Deployed here: https://lizardbook.herokuapp.com/ </li><li>Github repo: https://github.com/jlonsdale/LizardBook </li></ul>|Ruby, Rails, Bcrypt, RSpec, Capybara, JQuery, PostgreSQL, TDD and Agile |
+|Physics_engine.io – a learning tool to model basic collision mechanics with variable parameters (coefficient of restitution & coefficient of friction) <ul><li>Deployed here: https://jlonsdale.github.io/physics_engine.io/ </li><li>Github repo:  https://github.com/jlonsdale/physics_engine.io </li></ul>|JavaScript ES6, jQuery, HTML and CSS.|
+|Solarsim - an educational tool to visualize elliptical orbits. <ul><li>Deployed here: https://solarorbitsym.herokuapp.com/ </li><li>Github repo: https://github.com/jlonsdale/solarsim </li></ul>|JavaScript ES6, jQuery, Node.js, Heroku, HTML and CSS.|
+| WordBall - A 2D physics-based spelling game with a random letter generating system and physics engine built from scratch. <ul><li>Deployed here: https://wordballxtreme.herokuapp.com/ </li><li>Github repo: https://github.com/jlonsdale/wordball </li>
+|
 
