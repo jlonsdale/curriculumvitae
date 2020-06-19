@@ -1,8 +1,8 @@
 ## Jess Lonsdale, Software Engineer and Physics Graduate.
 
-**Github** : https://github.com/jlonsdale
-**Mobile** : +44 7545552724
-**E-mail** : lonsdale.jess@gmail.com
+- **LinkedIn** : https://www.linkedin.com/in/jess-lonsdale-3a279419b/
+- **Mobile** : +44 7545552724
+- **E-mail** : lonsdale.jess@gmail.com
 
 Initially I was drawn to programming as a powerful tool for mathematics and data analytics. Later I fell in love with programming when I realized the uninhibited creative freedom I had to create anything I wanted with just my computer & my mind. This love for my craft drives me to always keep learning, adapting and perfecting my skills. I want to use my skills to write elegant and beautiful code that will contribute to meaningful projects and help build amazing things. 
 
