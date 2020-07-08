@@ -15,7 +15,7 @@ Initially I was drawn to programming as a powerful tool for mathematics and data
 
 ## Skills
 
-- JavaScript, Ruby, Python & Java.
+- JavaScript, Typescript, Ruby, Python & Java.
 - Competent with both Functional & Object-oriented programming styles.
 - High mathematical fluency.
 - Node.js, Express.js, Ruby on Rails & Rack.
@@ -44,4 +44,4 @@ _References available upon request_
 | --------------------|:-------------:|
 |Physics_engine.io – a learning tool to model basic collision mechanics with variable parameters (coefficient of restitution & coefficient of friction) <ul><li>Deployed here: https://jlonsdale.github.io/physics_engine.io/ </li><li>Github repo:  https://github.com/jlonsdale/physics_engine.io </li></ul>|JavaScript ES6, jQuery, HTML and CSS.|
 |Solarsim - an educational tool to visualize elliptical orbits. <ul><li>Deployed here: https://solarorbitsym.herokuapp.com/ </li><li>Github repo: https://github.com/jlonsdale/solarsim </li></ul>|JavaScript ES6, jQuery, Node.js, Heroku, HTML and CSS.|
-| WordBall - A 2D physics-based spelling game with a random letter generating system and physics engine built from scratch. <ul><li>Deployed here: https://wordballxtreme.herokuapp.com/ </li><li>Github repo: https://github.com/jlonsdale/wordball </li>
+| WordBall - A 2D physics-based spelling game with a random letter generating system and physics engine built from scratch. <ul><li>Deployed here: https://wordballxtreme.herokuapp.com/ </li><li>Github repo: https://github.com/jlonsdale/wordball </li> </li></ul>|JavaScript ES6, Node, React, Cypress, Jest, HTML and CSS.|
