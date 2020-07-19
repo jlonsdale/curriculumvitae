@@ -42,6 +42,6 @@ _References available upon request_
 ## Projects
 | Project Description | Tech Stack |
 | --------------------|:-------------:|
-|Physics_engine.io – a learning tool to model basic collision mechanics with variable parameters (coefficient of restitution & coefficient of friction) <ul><li>Deployed here: https://jlonsdale.github.io/physics_engine.io/ </li><li>Github repo:  https://github.com/jlonsdale/physics_engine.io </li></ul>|JavaScript ES6, jQuery, HTML and CSS.|
+|Physics Engine – a learning tool to model a range of basic physics systems <ul><li>Deployed here: https://physics-engine.herokuapp.com/ </li><li>Github repo:  https://github.com/jlonsdale/physengine </li></ul>|JavaScript ES6, React, Node.js and Heroku|
 |Solarsim - an educational tool to visualize elliptical orbits. <ul><li>Deployed here: https://solarorbitsym.herokuapp.com/ </li><li>Github repo: https://github.com/jlonsdale/solarsim </li></ul>|JavaScript ES6, jQuery, Node.js, Heroku, HTML and CSS.|
 | WordBall - A 2D physics-based spelling game with a random letter generating system and physics engine built from scratch. <ul><li>Deployed here: https://wordballxtreme.herokuapp.com/ </li><li>Github repo: https://github.com/jlonsdale/wordball </li> </li></ul>|JavaScript ES6, Node, React, Cypress, Jest, HTML and CSS.|
